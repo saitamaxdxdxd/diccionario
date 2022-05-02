@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+    color: #fff;
+}
+
+.current-option{
+    background-color: blueviolet;
+}
+
+.option:hover{
+    background-color: blueviolet;
+}
